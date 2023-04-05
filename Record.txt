@@ -1,0 +1,3 @@
+testtxt
+hello myn <BACKSPACE><BACKSPACE> name is sojeb
+wait a minute<BACKSPACE>
